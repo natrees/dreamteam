@@ -1,0 +1,148 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	background-color: white;
+	color: black;
+}
+
+h1 {
+color:white;
+font-family: Arial;
+font-size:70px;
+}
+	
+
+p {
+font-family:Times New Roman;
+font-size: 20px;
+}
+
+p.hospitality{
+font-family:Comic Sans ms;
+font-size: 30px;
+}
+
+p.lolol{
+color:green;
+font-size: 35px;
+}
+
+HOMEPAGE
+
+.navbar{
+font-size: 35px
+}
+
+#container1{
+border: 2px solid black;
+height: 100;
+width: 100px;
+position: fixed;
+margin:10px 5px 15px;
+border-radius: 8px
+}
+
+#index{
+
+}
+
+#about{
+border: 1px solid black;
+width: 100px;
+margin:1px 1px 1px;
+border-radius: 8px
+}
+
+
+#contact{
+border: 1px solid black;
+width: 100px;
+margin:1px 1px 1px;
+border-radius: 8px
+}
+
+
+#admin{
+border: 1px solid black;
+width: 100px;
+margin:1px 1px 1px;
+border-radius: 8px
+}
+
+
+
+
+ol{
+font-size: 100%;
+
+
+
+}
+
+ 
+ CONTACT
+ 
+#contain{
+border: 2px solid black;
+height: auto;
+width: 100vw;
+position: relative;
+margin: 0;
+}
+
+#intro{
+border: 1px solid black;
+color: white;
+width: auto;
+height: auto;
+background-color: #415e8c;
+left: 0px;
+position: fixed;
+}
+
+#overview{
+border: 2px solid black;
+color: white;
+width: 100vw;
+height: auto;
+background-color: #476642;
+}
+
+#motivate{
+border: 2px solid black;
+color: white;
+width: auto;
+height: auto;
+background-color: #aa7a79;
+border-radius: 16px;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 2;
+    padding: 2;
+    overflow: hidden;
+    background-color: #333;
+	 border-radius: 16px;
+}
+
+li {
+    float: left;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
